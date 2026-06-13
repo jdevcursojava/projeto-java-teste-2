@@ -8,13 +8,6 @@ public class Teste {
 		System.out.println("Aula de git hub pulll teste");
 		System.out.println("Aula de git hub ");
 		System.out.println("Aula de git hub pulll teste");
-		
-		
-		System.out.println("Aula de git hub ");
-		System.out.println("Aula de git hub pulll teste");
-		
-		System.out.println("Aula de git hub ");
-		System.out.println("Aula de git hub pulll teste");
 	}
 
 }
